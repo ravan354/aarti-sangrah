@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shinde.tech.aarti.sangrah.app-mergeReleaseResources-24:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/anishraya/.gradle/caches/transforms-3/59c798681c6ade8d5b10d938d0308582/transformed/appcompat-1.1.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

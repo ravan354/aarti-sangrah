@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1020809868199",
+    "firebase_url": "https://shinde-tech-aarti-sangra-724ec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shinde-tech-aarti-sangra-724ec",
+    "storage_bucket": "shinde-tech-aarti-sangra-724ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020809868199:android:38e0364ab177262b5b7c82",
+        "android_client_info": {
+          "package_name": "com.shinde.tech.aarti.sangrah.shinde_tech_aarti_sangrah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmwsV-g9HXRwk2PUvU2yoRZoQPhxmc9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
